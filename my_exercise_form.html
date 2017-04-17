@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+
+<body>
+    <h2>A simple form</h2>
+    <h3>From fudamentals</h3>
+    <form action="/contact" method="POST">
+        <div>
+            <fieldset>
+                <legend>Customer info</legend>
+                <div>
+                    <label>Name
+                        <input type="text" name="name" autofocus="" placeholder=" Your name and surname" required="true" autofocus="true">
+                    </label>
+                </div>
+                <div>
+                    <label> Telephone
+                        <input type="text" name="Telephone" pattern="1-1234-567-8910" placeholder="1-1234-567-8910" required="true">
+                    </label>
+                </div>
+                <div>
+                    <label> E-mail adfress
+                        <input type="text" name="upassword" placeholder=" sample@sample.com" required="true">
+                    </label>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Books</legend>
+                <div>
+                    <select>
+                        <label>
+                            <option value="Language" selected>Language</option>
+                            <option value="Science">Science</option>
+                            <option value="History">History</option>
+                    </select>
+                    </label>
+                    <label> "Quantity (Maximum 5):"
+                        <input type="number" name="upassword" max="5" min="1" multiple="true">
+                    </label>
+                </div>
+            </fieldset>
+        </div>
+        <input type="submit" value="Submit">
+        </div>
+    </form>
+</body>
+
+</html>
