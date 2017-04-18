@@ -127,19 +127,23 @@ The tags we have discussed are:
 <H6> Level 6 (e.g., paragraph) heading (paired).
 
 
-
 http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
 
 
-![HTML: basic structure.] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
+![HTML: basic structure] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
+
 
 ![HTML form. Atributes](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-02.png)
 
+
 ![HTML form. Basic structure.](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-03.png)
 
-![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
 
 ![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
+
+
+![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
+
 
 ![kittens](http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg)
 
