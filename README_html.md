@@ -1,6 +1,8 @@
 # HTML
 
 
+
+
 It is important to have in mind that a good site must be 100% semantic.
 
 html is a markup lenguage:
@@ -129,6 +131,18 @@ The tags we have discussed are:
 http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
 
 
+![HTML: basic structure.] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
+
+![HTML form. Atributes](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-02.png)
+
+![HTML form. Basic structure.](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-03.png)
+
+![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
+
+![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
+
+![kittens](http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg)
+
 Forms:
 atributes:
 * action =  "htp://..../php"  ===> this tis the page that recieve and works with the data
@@ -151,6 +165,8 @@ color
 
 The <input> element is self-contained, meaning it uses only one tag and it does not wrap any other content.
 
+
+
 [Building Forms]
 (http://learn.shayhowe.com/html-css/building-forms/)
 
@@ -167,6 +183,8 @@ url
 week
 
 
+
+
 <textarea>  Defines a multiline input control (text area)
 <label> Defines a label for an <input> element
 <fieldset>  Groups related elements in a form
@@ -180,25 +198,7 @@ week
 <output>    Defines the result of a calculation
 
 
-
-
 html pretyfy : package control for sublime.
-
-
-![HTML: basic structure] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
- 
-![ HTML form. Atributes] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-02.png)
-
-![ HTML form. Basic structure.] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-03.png)
-
-[The 6 components of web forms] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
-
-
-
-
-
-
-
 
 
 
