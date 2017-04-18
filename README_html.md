@@ -185,13 +185,13 @@ week
 html pretyfy : package control for sublime.
 
 
-1. ![HTML: basic structure.](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
-2. 
-2. ![ HTML form. Atributes](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-02.png)
-3. 
-3. ![ HTML form. Basic structure.](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-03.png)
-4. 
-4. ![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
+![HTML: basic structure] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
+ 
+![ HTML form. Atributes] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-02.png)
+
+![ HTML form. Basic structure.] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-03.png)
+
+[The 6 components of web forms] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
 
 
 
