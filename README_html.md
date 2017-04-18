@@ -1,8 +1,6 @@
 # HTML
 
 
-
-
 It is important to have in mind that a good site must be 100% semantic.
 
 html is a markup lenguage:
@@ -89,63 +87,18 @@ Atention to the avoid tags as:
 <br></br>
 <hr></hr>
 
+![image](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 
-------
-
-
-##The fundamental points:
-
-Web documents are ordinary text files (ASCII) that:
-Contain tags, which are used to "mark-up" text.
-Are named with a ".html" extension.
-Are placed in a "www-data" directory within AFS public space.
-Tags are just text with a special format:
-Each individual tag begins with the character "<"
-Each individual tag ends with the character ">"
-A tag may contain keywords, the first of which is the name of the tag. 
-e.g., <XYZ KEY=VALUE> would be called an "XYZ-tag."
-Most tags come in pairs: an opening tag, and a closing tag, which has the same name preceded by a "/".
-The text between the two tags is affected by them.
-The tags we have discussed are:
-<HTML> First tag in a document (unpaired).
-<HEAD> Marks the head section (paired).
-<BODY> Marks the body section (paired).
-<TITLE> Title (goes in head section) (paired).
-<P> Paragraph break (unpaired).
-<BR> Line break (unpaired).
-<HR> Horizontal rule (line) (unpaired).
-<PRE> Preformatted text (paired).
-<EM> Emphasis (usually italics) (paired).
-<STRONG> Stronger emphasis (paired).
-<B> Bold (text attribute) (paired).
-<I> Italics (text attribute) (paired).
-<H1> Level 1 (e.g., document) heading (paired).
-<H2> Level 2 (e.g., part) heading (paired).
-<H3> Level 3 (e.g., chapter) heading (paired).
-<H4> Level 4 (e.g., section) heading (paired).
-<H5> Level 5 (e.g., subsection) heading (paired).
-<H6> Level 6 (e.g., paragraph) heading (paired).
-
-
-http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
-
-
-![HTML: basic structure] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
-
+![HTML: basic structure.] (https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-01.png)
 
 ![HTML form. Atributes](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-02.png)
 
-
 ![HTML form. Basic structure.](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-03.png)
 
+![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
 
 ![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
 
-
-![The 6 components of web forms](https://raw.githubusercontent.com/joseangelbarrera/html5-layouts/master/images/estructure_html_images_-04.png)
-
-
-![kittens](http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg)
 
 Forms:
 atributes:
@@ -166,9 +119,7 @@ elements permits user to introduce elements
 6. checkbox
 color
 
-
 The <input> element is self-contained, meaning it uses only one tag and it does not wrap any other content.
-
 
 
 [Building Forms]
@@ -186,9 +137,6 @@ time
 url
 week
 
-
-
-
 <textarea>  Defines a multiline input control (text area)
 <label> Defines a label for an <input> element
 <fieldset>  Groups related elements in a form
@@ -203,8 +151,6 @@ week
 
 
 html pretyfy : package control for sublime.
-
-
 
 
 
